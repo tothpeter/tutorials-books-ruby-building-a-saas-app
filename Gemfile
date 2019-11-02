@@ -36,7 +36,7 @@ gem 'devise_invitable'
 gem 'rolify'
 gem 'cancancan', '~> 1.15'
 gem 'paper_trail'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'friendly_id', '~> 5.1.0'
 gem "slim-rails"
 gem 'sidekiq'
